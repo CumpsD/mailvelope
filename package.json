@@ -16,7 +16,7 @@
   "license": "AGPL",
   "readmeFilename": "Readme.md",
   "dependencies": {
-    "angular": "1.7.9",
+    "angular": "1.8.0",
     "autocrypt": "0.10.0",
     "bootstrap": "4.4.1",
     "dompurify": "2.0.10",
